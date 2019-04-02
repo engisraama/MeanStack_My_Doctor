@@ -1,0 +1,1 @@
+1-  restore the db archive by importing through studio 3t
