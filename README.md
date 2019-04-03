@@ -4,4 +4,4 @@ RTL-LTR support <br>
 Arabic and English support <br>
 Multi Themes support <br>
 fully responsive <br>
-Only authentication module is finished <br>
+Only authentication and security modules are finished <br>
